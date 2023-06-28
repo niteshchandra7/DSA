@@ -1,0 +1,3 @@
+/Users/niteshchandra/upWork/scaleAI/sugar/cmake-build-debug/CMakeFiles/sugar.dir
+/Users/niteshchandra/upWork/scaleAI/sugar/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/niteshchandra/upWork/scaleAI/sugar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
